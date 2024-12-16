@@ -1,0 +1,34 @@
+header{
+    background: url("../img/headerbg.webp") center/cover;
+}
+
+.carousel-text{
+    height: 400px !important;
+    width: 100% !important;
+}
+
+#slider-button-img1{
+    background: url("../img/sliderImg1.png") center/cover;
+}
+#slider-button-img2{
+    background: url("../img/sliderImg2.png") center/cover;
+}
+#slider-button-img3{
+    background: url("../img/sliderImg3.png") center/cover;
+}
+#slider-button-img4{
+    background: url("../img/sliderImg4.png") center/cover;
+}
+#slider-button-img5{
+    background: url("../img/sliderImg5.png") center/cover;
+}
+
+.slider-img{
+    width: 40px !important;
+    height: 25px !important;
+    border-radius: 50%;
+}
+
+.carousel-indicators button.active{
+    scale: 1.2;
+}
